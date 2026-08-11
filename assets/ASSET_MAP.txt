@@ -1,0 +1,37 @@
+Slime × Sea Treasure Shop V7 asset map
+
+Collection — Sea Treasure
+sea-clownfish.webp
+sea-goldfish.webp
+sea-jellyfish.webp
+sea-tropical-fish.webp
+sea-little-fish.webp
+sea-bubble-fish.webp
+sea-pufferfish.webp
+sea-seahorse.webp
+
+Collection — Slime Treasure
+slime-pink.webp
+slime-blue.webp
+slime-yellow.webp
+slime-green.webp
+
+Currency
+currency-wave.webp
+currency-slime-ball.webp
+
+Rewards
+reward-french-fries.webp
+reward-pizza.webp
+reward-confession.webp
+reward-party-glasses.webp
+reward-cheer-up.webp
+reward-holy-moon.webp
+reward-bubble-gun.webp
+reward-music-box.webp
+
+Page
+shop-title.webp
+ocean-background-extended.webp
+ocean-background-source.webp
+mimoon-party-logo.png
